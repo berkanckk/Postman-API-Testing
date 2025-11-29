@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "162039f8-c00b-48b3-98fb-66dca64efd71",
+		"name": "ReqRes User API Tests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42711005"
+	},
+	"item": [
+		{
+			"name": "Get Users List",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
