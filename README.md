@@ -1,4 +1,4 @@
-#  Postman API Test Portfolio
+#  Postman API Test
 
 This project demonstrates **Automated API Testing** using **Postman** and **JavaScript**.
 I used the [ReqRes.in](https://reqres.in/) fake data API to simulate real-world backend testing scenarios.
